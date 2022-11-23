@@ -1,10 +1,10 @@
-# Proyecto con Phyton 🚀
-En este proyecto se usó phyton para crear una aplicacion con interfaz gráfica donde se pueda hallar el camino más corto de un punto a otro en km.
-Para esto, se ha usado información de archivos .txt que representan la latitud, longitud y prioridad ee tráfico.
-También se ha usado el algoritmo de Djkstra para hallar el camino más corto.
+# Project with Python 🚀
+In this project, python was used to create an application with a graphical interface where the shortest path from one point to another in km can be found.
+For this, information from .txt files has been used that represent the latitude, longitude and priority of the traffic.
+Djkstra's algorithm has also been used to find the shortest path.
 
-Me gustaria dar crédito a Gonzalo Barrazueta Vilcachagua por ayudarme ha hacer el trabajo.
+I would like to give credit to Gonzalo Barrazueta Vilcachagua for helping me get the job done.
 
-Gracias, 
+Thank you,
 
-Oscar De la Cruz.
+Oscar de la Cruz.
