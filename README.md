@@ -1,4 +1,4 @@
-# Phyton_Project_WazeComplex 🚀
+# Python_Project_WazeComplex 🚀
 
 <a name="readme-top"></a>
 
